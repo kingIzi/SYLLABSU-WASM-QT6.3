@@ -1,0 +1,5 @@
+C:/Users/scott/Documents/DEVELOPMENT/c++/git-repo/syllabus-store/build-syllabus-WebAssembly_Qt_6_3_0-Release/CMakeFiles/syllabus.dir
+C:/Users/scott/Documents/DEVELOPMENT/c++/git-repo/syllabus-store/build-syllabus-WebAssembly_Qt_6_3_0-Release/CMakeFiles/edit_cache.dir
+C:/Users/scott/Documents/DEVELOPMENT/c++/git-repo/syllabus-store/build-syllabus-WebAssembly_Qt_6_3_0-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/scott/Documents/DEVELOPMENT/c++/git-repo/syllabus-store/build-syllabus-WebAssembly_Qt_6_3_0-Release/CMakeFiles/syllabus_autogen_timestamp_deps.dir
+C:/Users/scott/Documents/DEVELOPMENT/c++/git-repo/syllabus-store/build-syllabus-WebAssembly_Qt_6_3_0-Release/CMakeFiles/syllabus_autogen.dir
